@@ -1,5 +1,4 @@
-![image](https://github.com/SwathyKrishna02/Bike_Buyers/assets/85447723/f0c6464f-3720-43f7-bcfd-772604d38641)
-# Bike Buyers Data Analysis Dashboard
+![image](https://github.com/SwathyKrishna02/Bike_Buyers/assets/85447723/f0c6464f-3720-43f7-bcfd-772604d38641) # Bike Buyers Data Analysis Dashboard
 
 
 ## Overview
